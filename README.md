@@ -1,2 +1,2 @@
-# uvip
-UVIP pipelines and scripts
+# UVIP
+UVIP pipelines and scripts to analyze and process viral genomics data and sequences
