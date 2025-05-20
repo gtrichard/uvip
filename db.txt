@@ -697,15 +697,15 @@ sample	collection_date	region	collection_year	country	host	other
 210059	2020-10-07	XX	2020	France	swine	
 210059	2020-12-21	XX	2020	France	swine	
 210060	2020-12-17	XX	2020	France	swine	
-210060		XX	1900	France	swine	
+210060	2021-XX-XX	XX	2021	France	swine	
 210064	2021-01-15	XX	2021	France	swine	
 210072	2021-01-21	XX	2021	France	swine	
 210073	2021-01-18	XX	2021	France	swine	
 210074	2021-01-14	XX	2021	France	swine	
 210081	2021-01-26	XX	2021	France	swine	
 210088	2021-01-18	XX	2021	France	swine	
-210105		XX	1900	France	swine	
-210106		XX	1900	France	swine	
+210105	2021-XX-XX	XX	2021	France	swine	
+210106	2021-XX-XX	XX	2021	France	swine	
 210107	2021-02-04	XX	2021	France	swine	
 210118	2021-02-04	XX	2021	France	swine	
 210120	2020-12-16	XX	2020	France	swine	
@@ -729,10 +729,10 @@ sample	collection_date	region	collection_year	country	host	other
 210229	2021-03-24	XX	2021	France	swine	
 210230	2021-03-23	XX	2021	France	swine	
 210231	2021-03-22	XX	2021	France	swine	
-210159		XX	1900	France	swine	
-210160		XX	1900	France	swine	
-210162		XX	1900	France	swine	
-210163		XX	1900	France	swine	
+210159	2021-XX-XX	XX	2021	France	swine	
+210160	2021-XX-XX	XX	2021	France	swine	
+210162	2021-XX-XX	XX	2021	France	swine	
+210163	2021-XX-XX	XX	2021	France	swine	
 210236	2021-01-04	XX	2021	France	swine	
 210251	2021-01-10	XX	2021	France	swine	
 210253	2021-02-02	XX	2021	France	swine	
@@ -756,7 +756,7 @@ sample	collection_date	region	collection_year	country	host	other
 210321	2021-04-30	XX	2021	France	swine	
 210322	2021-05-05	XX	2021	France	swine	
 210324	2021-04-28	XX	2021	France	swine	
-210325		XX	1900	France	swine	
+210325	2021-XX-XX	XX	2021	France	swine	
 210349	2021-05-12	XX	2021	France	swine	
 210350	2021-05-07	XX	2021	France	swine	
 210367	2021-05-14	XX	2021	France	swine	
@@ -770,7 +770,7 @@ sample	collection_date	region	collection_year	country	host	other
 210406	2021-04-16	XX	2021	France	swine	
 210407	2021-05-14	XX	2021	France	swine	
 210409	2021-06-10	XX	2021	France	swine	
-210410		XX	1900	France	swine	
+210410	2021-XX-XX	XX	2021	France	swine	
 210412	2021-06-29	XX	2021	France	swine	
 210416	2021-06-28	XX	2021	France	swine	
 210425	2021-07-28	XX	2021	France	swine	
@@ -787,7 +787,7 @@ sample	collection_date	region	collection_year	country	host	other
 210452	2021-06-15	XX	2021	France	swine	
 210453	2021-06-17	XX	2021	France	swine	
 210455	2021-09-13	XX	2021	France	swine	
-210441		XX	1900	France	swine	
+210441	2021-XX-XX	XX	2021	France	swine	
 210458	2021-09-07	XX	2021	France	swine	
 210460	2021-09-16	XX	2021	France	swine	
 210461	2021-09-13	XX	2021	France	swine	
